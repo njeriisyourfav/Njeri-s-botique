@@ -1,0 +1,30 @@
+.pg1{
+    background-image: url("./burgess-milner-OYYE4g-I5ZQ-unsplash.jpg");
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: rgb(204, 36, 24);
+    text-align: center;
+    padding-top: 17%;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 5%;
+    
+}
+.btn1{
+    background-color: darkslateblue;
+    border-radius: 10px;
+    
+}
+.homepage{
+    background-image: url("./hannah-morgan-ycVFts5Ma4s-unsplash.jpg");
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: rgb(204, 36, 24);
+    text-align: center;
+    padding-top: 17%;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 5%;
+     
+}
+
