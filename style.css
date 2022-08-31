@@ -1,5 +1,5 @@
 .pg1{
-    background-image: url("/burgess-milner-OYYE4g-I5ZQ-unsplash.jpg");
+    background-image: url("./burgess-milner-OYYE4g-I5ZQ-unsplash.jpg");
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -16,7 +16,7 @@
     
 }
 .homepage{
-    background-image: url("/hannah-morgan-ycVFts5Ma4s-unsplash.jpg");
+    background-image: url("./hannah-morgan-ycVFts5Ma4s-unsplash.jpg");
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
